@@ -1,7 +1,7 @@
 {
-  "name": "node-seed",
-  "version": "0.0.14",
-  "description": "A skeleton for a typical NodeJS application",
+  "name": "btime",
+  "version": "0.0.0",
+  "description": "A time tracking NodeJS application",
   "keywords": [
     "node project",
     "nodejs project",
@@ -25,14 +25,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hwndept/node-seed.git"
+    "url": "https://github.com/budajeff/btime.git"
   },
-  "author": "Nikolay Shatalov <hwndept@gmail.com>",
+  "author": "Jeffrey Buda <budajeff@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hwndept/node-seed/issues"
+    "url": "https://github.com/budajeff/btime/issues"
   },
-  "homepage": "https://github.com/hwndept/node-seed",
+  "homepage": "https://github.com/budajeff/btime/node-seed",
   "devDependencies": {
     "babel": "^5.8.21",
     "gulp": "^3.9.1",
